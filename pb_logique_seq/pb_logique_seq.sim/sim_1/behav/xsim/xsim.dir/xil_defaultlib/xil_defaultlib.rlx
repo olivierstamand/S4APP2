@@ -1,0 +1,9 @@
+0.7
+2020.2
+Nov 18 2020
+09:20:35
+/home/olivier/projects/S4APP2/pb_logique_seq/pb_logique_seq.srcs/sim_1/imports/new/module_commande_tb.vhd,1610547840,vhdl,,,,module_commande_tb,,,,,,,,
+/home/olivier/projects/S4APP2/pb_logique_seq/pb_logique_seq.srcs/sources_1/imports/new/conditionne_btn_v7.vhd,1610547840,vhdl,,,,conditionne_btn_v7,,,,,,,,
+/home/olivier/projects/S4APP2/pb_logique_seq/pb_logique_seq.srcs/sources_1/imports/new/module_commande.vhd,1706132295,vhdl,,,,module_commande,,,,,,,,
+/home/olivier/projects/S4APP2/pb_logique_seq/pb_logique_seq.srcs/sources_1/imports/new/strb_gen_v3.vhd,1610547840,vhdl,,,,strb_gen,,,,,,,,
+/home/olivier/projects/S4APP2/pb_logique_seq/pb_logique_seq.srcs/sources_1/new/selection_fct.vhd,1706132395,vhdl,,,,selecteur_m8,,,,,,,,
